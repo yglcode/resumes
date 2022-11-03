@@ -1,0 +1,16 @@
+Hello there,
+
+I am a hands-on senior software engineer with past experience at SAP, Microsoft, AOL, and other leading companies. I developed Go/Java/C++ distributed services, data replication and high available data services, RESTful api and web sites backend. I worked with AWS (S3, SNS, SQS, Dynamodb, EMR, EKS, CDK, etc.) and Docker, Kafka, serverless, Kubernetes and Helm. I am really interested in your projects and writing to apply to join the team working remotely from Seattle/US.
+
+For a sampling of my coding, here are some open source projects i worked on:
+
+1. https://github.com/yglcode: recent projects, such as AWS CDK (Infra As Code) construct library for renaming stack and resources, works (issue and PR) with AWS open source jsii toolkit for golang binding, and kafka work queue support for OpenFaas (function as service) using Golang and docker swarm.
+2. https://github.com/go-router: open source Golang package for pub/sub message passing and scalable services construction.
+3. http://channel.sourceforge.net: open source C++ template libraries for light weight concurrency, message passing.
+
+I am a US citizen and can legally work for your projects.
+
+Thanks for your considerations.
+
+Yigong
+
