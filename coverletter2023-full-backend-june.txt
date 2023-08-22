@@ -1,6 +1,6 @@
 Hello there,
 
-I am a hands-on senior software engineer with past experience at SAP, Microsoft, AOL, and other leading companies. With strong expertise of Go/Java/C++ and distributed systems, i developed micro-services, data replication and high available data services, RESTful api and web sites backend. My recent projects make extensive use of AWS (S3, SNS, SQS, Dynamodb, EMR, EKS, CDK, etc.), Docker, Kafka, serverless, Kubernetes and Helm. I am really interested in your projects and writing to apply to join the team working remotely from Seattle, WA.
+I am a hands-on senior software engineer with past experience at SAP, Microsoft, AOL, and other leading companies. With strong expertise of Go/Java/C++ and distributed systems, i developed distributed backend services, data replication and high available data services, RESTful api and web sites backend. My recent projects make extensive use of AWS (S3, SNS, SQS, Dynamodb, EMR, EKS, CDK, etc.), Docker, Kafka, serverless, Kubernetes and Helm. I am really interested in your projects and writing to apply to join the team working remotely from Seattle, WA.
 
 For a sampling of my coding, here are some open source projects i worked on:
 
