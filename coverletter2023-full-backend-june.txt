@@ -4,8 +4,8 @@ I am a hands-on senior software engineer with past experience at SAP, Microsoft,
 
 For a sampling of my coding, here are some open source projects i worked on:
 
-https://github.com/yglcode: 
-recent projects, such as AWS CDK (Infra As Code) construct library for renaming stack and resources, works (issue and PR) with AWS open source jsii toolkit for golang binding, and kafka work queue support for OpenFaas (function as service) using Golang and docker swarm.
+1. https://github.com/yglcode: recent projects, such as works with AWS jsii toolkit golang binding (https://github.com/aws/jsii/pull/2780), HashiCorp golang-lru package (https://github.com/hashicorp/golang-lru/pull/80), kafka work queue support for OpenFaas using Golang and docker swarm, and AWS CDK (Infra As Code) construct library for renaming stack and resources.
+2. https://github.com/go-router: open source Golang package for pub/sub message passing and scalable services construction.
 
 I am a US citizen and can legally work for your projects.
 
